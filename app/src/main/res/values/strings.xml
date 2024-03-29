@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">temperature</string>
+    <string name="result_text">result_text</string>
+    <string name="error_message">error_message</string>
+</resources>
